@@ -1,0 +1,15 @@
+2022-07-23 17:30:08,211 DEBUG com.felipedsr.springbootmonitoringdemo.controller.PersonController [http-nio-8087-exec-1] Inside findAll method
+2022-07-23 17:31:04,404 DEBUG com.felipedsr.springbootmonitoringdemo.controller.PersonController [http-nio-8087-exec-2] Inside findFirstName method
+2022-07-23 17:31:27,706 DEBUG com.felipedsr.springbootmonitoringdemo.controller.PersonController [http-nio-8087-exec-4] Inside findLastName
+2022-07-23 17:32:07,628 DEBUG com.felipedsr.springbootmonitoringdemo.controller.PersonController [http-nio-8087-exec-5] Inside findFirstName method
+2022-07-23 17:32:15,051 DEBUG com.felipedsr.springbootmonitoringdemo.controller.PersonController [http-nio-8087-exec-7] Inside findAll method
+2022-07-23 17:32:33,180 DEBUG com.felipedsr.springbootmonitoringdemo.controller.PersonController [http-nio-8087-exec-1] Inside findLastName
+2022-07-23 17:45:48,104 DEBUG com.felipedsr.springbootmonitoringdemo.controller.PersonController [http-nio-8087-exec-4] Inside findFirstName method
+2022-07-23 21:01:22,284 INFO com.felipedsr.springbootmonitoringdemo.MonitoringDemoApplication [main] Starting MonitoringDemoApplication on Robs-MBP.MG8702 with PID 6038 (/Users/rglasener/Development/spring-boot-monitoring-demo/target/classes started by rglasener in /Users/rglasener/Development/spring-boot-monitoring-demo)
+2022-07-23 21:01:22,289 DEBUG com.felipedsr.springbootmonitoringdemo.MonitoringDemoApplication [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2022-07-23 21:01:22,289 INFO com.felipedsr.springbootmonitoringdemo.MonitoringDemoApplication [main] The following profiles are active: prod
+2022-07-23 21:01:27,325 INFO com.felipedsr.springbootmonitoringdemo.MonitoringDemoApplication [main] Started MonitoringDemoApplication in 6.01 seconds (JVM running for 13.087)
+2022-07-23 21:01:27,402 DEBUG com.felipedsr.springbootmonitoringdemo.BulkDataLoader [main] Person collection dropped
+2022-07-23 21:01:27,558 DEBUG com.felipedsr.springbootmonitoringdemo.BulkDataLoader [main] Person collection created
+2022-07-23 21:01:27,803 DEBUG com.felipedsr.springbootmonitoringdemo.BulkDataLoader [main] Bulk person data successfully saved in db
+2022-07-23 21:04:10,388 DEBUG com.felipedsr.springbootmonitoringdemo.controller.PersonController [http-nio-8087-exec-1] Inside findAll method

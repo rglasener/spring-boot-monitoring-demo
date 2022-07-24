@@ -1,0 +1,3 @@
+2022-07-24 09:36:06,793 DEBUG com.felipedsr.springbootmonitoringdemo.controller.PersonController [http-nio-8087-exec-7] Inside findFirstName method
+2022-07-24 09:36:19,391 DEBUG com.felipedsr.springbootmonitoringdemo.controller.PersonController [http-nio-8087-exec-2] Inside findAll method
+2022-07-24 09:36:55,396 DEBUG com.felipedsr.springbootmonitoringdemo.controller.PersonController [http-nio-8087-exec-10] Inside findAll method
